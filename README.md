@@ -42,6 +42,6 @@ This project focuses on analyzing PhonePe transaction data and creating a **Tota
 
 ## 💡 Key Outcome
 The project demonstrates how **Power BI, DAX, and data visualization** can be used to transform payment transaction data into an interactive business intelligence dashboard.## 📸 Dashboard Preview
-phonepe-dashboard.png
+phonepe-dashboard.png - https://github.com/sam9882/Phonepe_analysis_/blob/main/Phonepe_analysis_.png
 
 > Interactive Power BI dashboard showing total transactions, transaction value, payment status, user analysis, service performance, and transaction trends.
