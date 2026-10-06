@@ -45,7 +45,7 @@ The project demonstrates how **Power BI, DAX, and data visualization** can be us
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="YOUR_GITHUB_IMAGE_LINK_HERE" alt="PhonePe Total Transaction Summary" width="100%">
+  <img src="https://github.com/sam9882/Phonepe_analysis_/blob/main/Phonepe_analysis_.png" alt="PhonePe Total Transaction Summary" width="100%">
 </p>
 
 > Interactive Power BI dashboard showing total transactions, transaction value, payment status, user analysis, service performance, and transaction trends.
